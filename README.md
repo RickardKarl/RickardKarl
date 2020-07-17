@@ -2,10 +2,9 @@
 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/source.gif" />
-![](ad.gif)
+![](https://github.com/RickardKarl/RickardKarl/ad.gif)
 
 ## I am Rickard from Sweden
-- 
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
