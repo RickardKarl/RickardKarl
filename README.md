@@ -1,12 +1,9 @@
 ### Hello world 👋
 
-<a href="https://www.linkedin.com/in/rickard-karlaxel-karlsson/">
-  <img align="left" alt="Rickard's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized-large.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/source.gif" />
 
-## I am Rickard, a master's student in mathematics who likes ML/AI
+## I am Rickard from Sweden
 - 
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
