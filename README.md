@@ -1,6 +1,6 @@
 ##  Hello world, I am Rickard from Sweden 👋
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" width="200" height="100" />
 
 ### Master's student in mathematics who happens to like computer science and AI. <br/> Previously spent three years studying physics and been an intern at NASA :rocket:  
 <!--
