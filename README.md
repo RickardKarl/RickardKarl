@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" />
 
-### M.Sc. student in mathematics who happens to like computer science and AI. <br/> Previously spent three years studying physics and been an intern at NASA :rocket:  
+### Master's student in mathematics who happens to like computer science and AI. <br/> Previously spent three years studying physics and spent one summer as intern at NASA :rocket:  
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
