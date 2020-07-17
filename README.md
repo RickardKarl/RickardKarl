@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-![GIF](https://github.com/RickardKarl/RickardKarl/ad.gif)
+![](ad.gif)
 
 I am Rickard from Sweden
 <!--
