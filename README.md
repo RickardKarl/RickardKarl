@@ -2,6 +2,7 @@
 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/source.gif" />
+![](ad.gif)
 
 ## I am Rickard from Sweden
 - 
