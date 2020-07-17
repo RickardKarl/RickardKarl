@@ -1,8 +1,8 @@
 ### Hello world 👋
 
-![](https://github.com/RickardKarl/RickardKarl/ad.gif)
+![GIF](https://github.com/RickardKarl/RickardKarl/ad.gif)
 
-## I am Rickard from Sweden
+I am Rickard from Sweden
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
