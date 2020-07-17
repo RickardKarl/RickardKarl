@@ -1,10 +1,10 @@
-###  Hello world, I am Rickard from Sweden 👋
+##  Hello world, I am Rickard from Sweden 👋
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" />
 
-# Master's student in mathematics who likes computer science and AI. 
-# B.Sc. in Physics. 
-# Previous intern at NASA GSFC :rocket:  
+### Master's student in mathematics who likes computer science and AI. 
+### B.Sc. in Physics. 
+### Previous intern at NASA GSFC :rocket:  
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
