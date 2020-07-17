@@ -1,7 +1,7 @@
 ### Hello world, I am Rickard from Sweden 👋
 
-![](ad.gif)
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized-large.gif" />
+ 
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
