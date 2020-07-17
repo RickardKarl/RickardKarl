@@ -1,7 +1,5 @@
 ### Hello world 👋
 
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/source.gif" />
 ![](https://github.com/RickardKarl/RickardKarl/ad.gif)
 
 ## I am Rickard from Sweden
