@@ -1,5 +1,5 @@
-### Hello world, I am Rickard from Sweden 👋
-Master's student in mathematics who likes computer science and AI :robot: Previous intern at NASA GSFC :rocket:  
+# Hello world, I am Rickard from Sweden 👋
+Master's student in mathematics who likes computer science and AI. Previous intern at NASA GSFC :rocket:  
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" />
  
