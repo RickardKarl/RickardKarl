@@ -1,4 +1,4 @@
-##  Hello world, I am Rickard from Sweden 👋
+##  Hello world, I am Rickard 👋
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/cRLhKFCmCfMFQmzHjd/giphy-downsized.gif" height="200" />
 
