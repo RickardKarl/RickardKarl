@@ -1,4 +1,4 @@
-##  Hello world, I am Rickard 👋 
+##  Hello there, I am Rickard 👋 
 <!--
 **RickardKarl/RickardKarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
